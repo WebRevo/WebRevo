@@ -44,17 +44,17 @@ class WebRevo {
         this.web = 'https://webrevo.dev';
         this.blog = 'https://webrevo.hashnode.dev';
         this.resume = 'https://drive.google.com/file/d/17OkK_QJhvQmwHZR69sIExgD0yUF-x-cv/view?usp=sharing';
-        this.linkedin ='https://linkedin.com/in/SarathiRevo005';
+        this.linkedin = 'https://linkedin.com/in/SarathiRevo005';
         this.twitter = '@SarathiS';
-        this.softskills = ['Leadership','Project','Time Management'];
+        this.softskills = ['Leadership', 'Project Management', 'Time Management'];
         this.code = {
-            frontend: ['HTML', 'CSS','TailwindCSS','JavaScript', 'ThreeJS','WebGL','ReactJS','Redux','TypeScript'],
-            backend: ['NodeJS','ExpressJS','PHP','Python','Django','Flask'],
-            database: ['MySQL', 'Mongo DB'],
-            softwares:['Blender, Adobe[Photoshop, Illustrator, XD]'],
+            frontend: ['HTML', 'CSS', 'TailwindCSS', 'JavaScript', 'ThreeJS', 'WebGL', 'ReactJS', 'Redux', 'TypeScript'],
+            backend: ['NodeJS', 'ExpressJS', 'PHP', 'Python', 'Django', 'Flask'],
+            database: ['MySQL', 'MongoDB'],
+            softwares: ['Blender', 'Adobe Photoshop', 'Adobe Illustrator', 'Adobe XD'],
             misc: ['Firebase']
         };
-        this.nocode = ['Spline','WebFlow','Dora','Framer'],
+        this.nocode = ['Spline', 'WebFlow', 'Dora', 'Framer'];
     }
 
     toString() {
@@ -64,6 +64,7 @@ class WebRevo {
 
 const me = new WebRevo();
 console.log(me.toString());
+
 ```
 <h3>Github Statistics:</h3>
 <div align="center">
