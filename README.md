@@ -48,7 +48,7 @@ class WebRevo {
         this.twitter = '@SarathiS';
         this.softskills = ['Leadership', 'Project Management', 'Time Management'];
         this.code = {
-            frontend: ['HTML', 'CSS', 'TailwindCSS', 'JavaScript', 'ThreeJS', 'WebGL', 'ReactJS', 'Redux', 'TypeScript'],
+            frontend: ['HTML', 'CSS', 'Bootstrap', 'TailwindCSS', 'JavaScript', 'ThreeJS', 'WebGL', 'ReactJS', 'Redux', 'TypeScript'],
             backend: ['NodeJS', 'ExpressJS', 'PHP', 'Python', 'Django', 'Flask'],
             database: ['MySQL', 'MongoDB'],
             softwares: ['Blender', 'Adobe Photoshop', 'Adobe Illustrator', 'Adobe XD'],
