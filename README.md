@@ -1,27 +1,79 @@
-# 💫 About Me:
-Hey there, I'm Sarathi S! 👋<br><br>I'm on an exciting journey to become a Full Stack 3D Web Developer, and I'm incredibly passionate about it. 🌐 I believe in blending creativity with functionality to code the future! 🚀<br><br>Here's a cool tidbit about me: Ever turned a 3D model into a holographic experience? Well, I have! It's just another day at the office for this aspiring tech wizard! 🌟<br><br>With my dedication and enthusiasm, I'm confident that I'll make a significant impact in the world of 3D web development. Stay tuned for the amazing creations I'm going to bring to life. Keep coding and innovating, that's my motto! 💻✨
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you. <br>
+I'm Sarathi
+</h1>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" ><br>
+
+<!-- <p align="left">
+<a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p> -->
+
+<br>
+
+<p align="center">
+I'm on an exciting journey to become a Full Stack 3D Web Developer, and I'm incredibly passionate about it. 🌐 I believe in blending creativity with functionality to code the future! 🚀 <br>
+Here's a cool tidbit about me: Ever turned a 3D model into a holographic experience? Well, I have! It's just another day at the office for this aspiring tech wizard! 🌟
+<br>
+
+</p>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SarathiRevo#1285) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sarathi S) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SarathiRevo005) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sarathi S) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Sarathi S ) 
+<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
+<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=plastic&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=plastic&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=plastic&logo=webflow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WebRevo&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+<p align="center">
+  <a href="mailto:sarathi2021ai@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/SarathiRevo#1285"><img src="https://img.shields.io/badge/discord-%233B5998.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/SarathiRevo005"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  
+  </p>
+  <hr>
+ <h3>How I'd define myself...literally</h3>
+
+```javascript
+class WebRevo {
+    constructor() {
+        this.username = 'WebRevo';
+        this.name = 'Sarathi S';
+        this.quote = 'Code your own Anime-inspired Realm of Innovation';
+        this.web = 'https://webrevo.dev';
+        this.blog = 'https://webrevo.hashnode.dev';
+        this.resume = 'https://drive.google.com/file/d/17OkK_QJhvQmwHZR69sIExgD0yUF-x-cv/view?usp=sharing';
+        this.linkedin ='https://linkedin.com/in/SarathiRevo005';
+        this.twitter = '@SarathiS';
+        this.softskills = ['Leadership','Project','Time Management'];
+        this.code = {
+            frontend: ['HTML', 'CSS','TailwindCSS','JavaScript', 'ThreeJS','WebGL','ReactJS','Redux','TypeScript'],
+            backend: ['NodeJS','ExpressJS','PHP','Python','Django','Flask'],
+            database: ['MySQL', 'Mongo DB'],
+            softwares:['Blender, Adobe[Photoshop, Illustrator, XD]'],
+            misc: ['Firebase']
+        };
+        this.nocode = ['Spline','WebFlow','Dora','Framer'],
+    }
+
+    toString() {
+        return `${this.name} | ${this.quote}`;
+    }
+}
+
+const me = new WebRevo();
+console.log(me.toString());
+```
+<h3>Github Statistics:</h3>
+<div align="center">
+
+![Github](https://github-readme-stats.vercel.app/api?username=WebRevo&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+</a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WebRevo&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WebRevo&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WebRevo&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WebRevo&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=WebRevo&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Show some ❤️ by starring some of the repositories!
+</div>
