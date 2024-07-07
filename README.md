@@ -74,7 +74,7 @@ console.log(me.toString());
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WebRevo&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WebRevo&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
-<h3>Thanks for Visiting my Profil, I'm always excited to connect with fellow developers, potential collaborators, or anyone interested in tech. Let's create something amazing together!</h3>
+<h3>Thanks for Visiting my Profile, I'm always excited to connect with fellow developers, potential collaborators, or anyone interested in tech. Let's create something amazing together!</h3>
 <p align="right">
 <img src="https://visitcount.itsvg.in/api?id=WebRevo&icon=0&color=7"></img>
 </p>
