@@ -42,7 +42,7 @@ class WebRevo {
         this.quote = 'Code your own Anime-inspired Realm of Innovation';
         this.web = 'https://webrevo.dev';
         this.blog = 'https://webrevo.hashnode.dev';
-        this.resume = 'https://drive.google.com/file/d/17OkK_QJhvQmwHZR69sIExgD0yUF-x-cv/view?usp=sharing';
+        this.resume = 'https://drive.google.com/file/d/1sr39_Qx_0Zy0MqA9LCoNaBjgtQTdihXs/view?usp=sharing';
         this.linkedin = 'https://linkedin.com/in/SarathiRevo005';
         this.twitter = '@SarathiS';
         this.softskills = ['Leadership', 'Project Management', 'Time Management'];
