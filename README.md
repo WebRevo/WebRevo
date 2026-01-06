@@ -40,7 +40,7 @@ class WebRevo {
         this.username = 'WebRevo';
         this.name = 'Sarathi S';
         this.quote = 'Code your own Anime-inspired Realm of Innovation';
-        this.web = 'https://webrevo.dev';
+        this.web = 'https://webrevo.netlify.app';
         this.blog = 'https://webrevo.hashnode.dev';
         this.resume = 'https://drive.google.com/file/d/1sr39_Qx_0Zy0MqA9LCoNaBjgtQTdihXs/view?usp=sharing';
         this.linkedin = 'https://linkedin.com/in/SarathiRevo005';
