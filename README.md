@@ -13,7 +13,7 @@ I'm Sarathi
 <br>
 
 <p align="center">
-I'm on an exciting journey to become a Full Stack 3D Web Developer, and I'm incredibly passionate about it. 🌐 I believe in blending creativity with functionality to code the future! 🚀 <br>
+🌐 I believe in blending creativity with functionality to code the future! 🚀 <br>
 Here's a cool tidbit about me: Ever turned a 3D model into a holographic experience? Well, I have! It's just another day at the office for this aspiring tech wizard! 🌟
 <br>
 
